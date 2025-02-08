@@ -42,7 +42,11 @@ export default function About() {
   <div class="card-body">
   <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop2">Details</Link>
+
+                        </button>  
+
   </div>
 </div>
 

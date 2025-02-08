@@ -7,7 +7,13 @@ import Video from './Video'
 import Header from 'components/Frontend/Header';
 import Footer from 'components/Frontend/Footer'
 import Contact from './Contact'
-import Shop1 from './Shop1'
+import Shop1 from './Shop1';
+import Shop2 from './Shop2'
+
+
+
+
+
 
 export default function Index() {
   return (
@@ -25,6 +31,7 @@ export default function Index() {
         <Route path='video' element={<Video/>}/>
         <Route path='*' element={<Nopage />} />
         <Route path='shop1' element={<Shop1 />} />
+        <Route path='shop2' element={<Shop2 />} />
 
 
       </Routes>
