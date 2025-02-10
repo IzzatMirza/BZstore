@@ -48,6 +48,7 @@ export default function Header() {
               <li className="nav-item">
                 <Link to="about" className="nav-link active" >Shopping</Link>
               </li>
+             
               {/* <li className="nav-item">
                 <Link to="contact" className="nav-link active" >Issue</Link>
               </li> */}

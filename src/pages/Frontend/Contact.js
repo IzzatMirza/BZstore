@@ -13,6 +13,7 @@ const initialstate = {
     city : "" ,
     phone: "" ,
     subject : "" ,
+    comid:"",
     // message:"",
 }
 
@@ -33,17 +34,23 @@ export default function Contact() {
 
 
 
-    let {fullName, email , city , phone , subject  } = state
+    let {fullName, email , city , phone , subject ,comid } = state
 
     fullName = fullName.trim()
     subject = subject.trim()
+    comid = comid.trim()
     // message = message.trim()
 
 
     if (fullName.length < 3) {
         return window.toastify("Enter Correct Name", "error")
     }
-    if (subject.length < 8) {
+    if (comid.length < 4) {
+        return window.toastify("Enter ID", "error")
+    }
+    if (subject.length < 1
+
+    ) {
         return window.toastify("Enter Correct Subject", "error")
     }
     
@@ -54,7 +61,7 @@ export default function Contact() {
      
 
     let formData = {
-        fullName, email, city, phone, subject,
+        fullName, email, city, phone, subject, comid,
         id: window.getRandomId(),
         dateCreated: serverTimestamp()
     }
@@ -64,7 +71,7 @@ export default function Contact() {
     try {
          await setDoc(doc(firestore, "messages", formData.id), formData);
         // console.log("Document written with ID: ", docRef.id);
-        window.toastify("Msg Sent", "success")
+        window.toastify("Thanks For Shopping", "success")
         navigate("/")
     } 
     catch (e) {
@@ -91,12 +98,16 @@ export default function Contact() {
                                     </div>
 
                                     <div className='col-12 col-md-6 mb-2 '>
+                                        <input className='form-control ' onChange={handleChange} type="text" name='comid' placeholder='Product ID Compulsory' />
+                                    </div>
+
+                                    <div className='col-12 col-md-6 mb-2 '>
                                         <input className='form-control ' onChange={handleChange} type="email" name='email' placeholder=' Email' />
                                     </div>
 
 
                                     <div className='col-12 col-md-6 mb-2 '>
-                                        <input className='form-control ' onChange={handleChange} type="Phone" name='city' placeholder='City' />
+                                        <input className='form-control ' onChange={handleChange} type="Phone" name='city' placeholder='Address' />
                                     </div>
 
 
@@ -105,7 +116,7 @@ export default function Contact() {
                                     </div>
 
                                     <div className='col-12 mb-3'>
-                                        <input className='form-control ' onChange={handleChange} type="text" name='subject' placeholder='Subject' />
+                                        <input className='form-control ' onChange={handleChange} type="text" name='subject' placeholder='size-(Shoes):7-8-9-10-11(Clothes):S-L-XL' />
                                     </div>
 
                                     {/* <div className='col-12 mb-3'>
