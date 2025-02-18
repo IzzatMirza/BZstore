@@ -7,18 +7,50 @@ export default function Shop13() {
     <div className='container '>
       <div className='row'>
     <div className='rounded col-12 col-md-6 col-sm-6 mt-3'>
-    <img src='shop1img.jpeg' className='responsive'></img>
+    <img src='s13i1.jpg' className='responsive'></img>
     </div>
     
     
     <div className='rounded col-12 col-md-6 col-sm-6 mt-3'>
-    <img src='shop1img2.jpeg' className='responsive'></img>
+    <img src='s13i2.jpg' className='responsive'></img>
     
     </div>
       </div>
     
     
     </div>
+
+
+     
+<div className='container mt-3'>
+<li>
+  
+Material: Reixne
+</li>
+<li>
+Product Type: Men's Sandals
+</li>
+<li>
+Product Feature: Comfortable, Soft, Durable
+</li>
+
+  
+<li>
+Package Includes: 1 x Sandals Pair
+</li>
+
+{/* Product Code: MZ76500005JTYWL */}
+
+
+<li><span className='text-danger'>Return Within 7 days</span>
+                  
+                  </li>
+                
+  <h3><span className='text-danger'>Product ID</span>: 99013</h3>
+
+
+</div>
+
     
         
     

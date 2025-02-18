@@ -61,22 +61,28 @@ export default function About() {
 <div className='container'>
 <div className='row justify-content-center'>
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
-  <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+  <img src="s16i1.jpg" class="card-img-top mt-2 " alt="..."/>
   <div class="card-body">
-  <h5 class="card-title">780 <span className='text-danger'>Rs...</span></h5>
+  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
   <h6>Order ID: 4567</h6>
     <p class="card-text">
     <li>
-                  Trouser
+    Men's Raxine Formal Loafers
+                  </li>
+
+                 
+                  <li>
+                  <span>Product ID:</span>99016
                   </li>
 
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
+                  
                   
     </p>
 
-             <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+             <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop16">Buy Now</Link>
 
                         </button>  
@@ -89,20 +95,24 @@ export default function About() {
 
 
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
-  <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+  <img src="s17i1.jpg" class="card-img-top mt-2 " alt="..."/>
   <div class="card-body">
-  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+  <h5 class="card-title">1450<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
     <p class="card-text">
     <li>
-                  Trouser
+    Black Earbuds  with 2000mAh Power Bank D-LED M-10 Hifi-Sound
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99017
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
     </p>
-    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop17">Buy Now</Link>
 
                         </button>  
@@ -112,20 +122,24 @@ export default function About() {
 
 
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
-  <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+  <img src="s18i1.jpg" class="card-img-top mt-2" alt="..."/>
   <div class="card-body">
-  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+  <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
     <p class="card-text">
     <li>
-                  Trouser
+    Earcuffs Wireless Earbuds
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99018
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
     </p>
-    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop18">Buy Now</Link>
 
                         </button>  
@@ -147,21 +161,24 @@ export default function About() {
  <div className='container'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+              <img src="s19i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+              <h5 class="card-title">1450<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
-                  Trouser
+                Bluetooth Earbuds, Green
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99019
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                 </p>
             
-                         <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                         <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
       <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop19">Buy Now</Link>
             
                                     </button>  
@@ -174,20 +191,23 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+              <img src="s20i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+              <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
-                  Trouser
+                Airpods Pro 2
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99020
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                 </p>
-                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop20">Buy Now</Link>
 
                         </button>  
@@ -197,20 +217,23 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+              <img src="s21i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+              <h5 class="card-title">1550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
-                  Trouser
+                Air 31 Wireless Airbuds With Pouch
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99021
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                 </p>
-                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop21">Buy Now</Link>
 
                         </button>  
@@ -233,21 +256,24 @@ export default function About() {
              <div className='container'>
                         <div className='row justify-content-center'>
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                          <img src="s22i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                          <h5 class="card-title">3799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
-                  Trouser
+                            White Long-Lasting Battery With Fast Charging 19999999999900 Earbuds
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99022
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                             </p>
                         
-                                     <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                     <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
               <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop22">Buy Now</Link>
                         
                                                 </button>  
@@ -260,20 +286,24 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                          <img src="s23i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                          <h5 class="card-title">2599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
-                  Trouser
+                            Air 39 Bluetooth 5.1 Airpods - All Day Comfort
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99023
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                             </p>
-                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop23">Buy Now</Link>
 
                         </button>  
@@ -283,20 +313,23 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                          <img src="s24i1.jpg" class="card-img-top mt-2" alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                          <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
-                  Trouser
+                            Women's Rexine Casual Flats
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99024
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                             </p>
-                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop24">Buy Now</Link>
 
                         </button>  
@@ -320,21 +353,25 @@ export default function About() {
                          <div className='container'>
                                     <div className='row justify-content-center'>
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                      <img src="s25i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                      <h5 class="card-title">2599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
-                  Trouser
+                                        Portable Rechargeable Fan
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99025
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                                         </p>
                                     
-                                                 <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>      
+                                                 <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>      
                                                                      <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop25">Buy Now</Link>
                                     
                                                             </button>  
@@ -349,19 +386,23 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                                         </p>
 
-                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop26">Buy Now</Link>
 
                         </button>  
@@ -373,18 +414,22 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                   Trouser
                   </li>
+                  <li>
+                  <span>Product ID:</span>99016
+                  </li>
 
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
+                  
                                         </p>
-                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop27">Buy Now</Link>
 
                         </button>  
@@ -409,19 +454,22 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                                                     </p>
                                                 
-                                                             <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                             <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                       <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop28">Buy Now</Link>
                                                 
                                                                         </button>  
@@ -436,19 +484,23 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                                                     </p>
 
-                                                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop29">Buy Now</Link>
 
                         </button>  
@@ -460,18 +512,22 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                                                     </p>
-                                                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop30">Buy Now</Link>
 
                         </button>  
@@ -496,19 +552,22 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+              <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                 </p>
             
-                         <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                         <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                         <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop31">Buy Now</Link>
             
                                     </button>  
@@ -523,18 +582,21 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+              <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                 </p>
-                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop32">Buy Now</Link>
 
                         </button>  
@@ -546,18 +608,21 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img src="simg.png" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+              <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                 </p>
-                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop33">Buy Now</Link>
 
                         </button>  
@@ -584,19 +649,22 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                          <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                             </p>
                         
-                                     <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                     <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                        <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop34">Buy Now</Link>
                         
                                                 </button>  
@@ -611,19 +679,23 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                          <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                             </p>
 
-                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop35">Buy Now</Link>
 
                         </button>  
@@ -635,19 +707,23 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                          <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                             </p>
 
-                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop36">Buy Now</Link>
 
                         </button>  
@@ -671,19 +747,23 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                         </p>
                                     
-                                                 <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                 <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                    <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop37">Buy Now</Link>
                                     
                                                             </button>  
@@ -698,19 +778,23 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                   Trouser
                   </li>
 
+                    <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                         </p>
 
-                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop38">Buy Now</Link>
 
                         </button>  
@@ -722,19 +806,23 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                         </p>
 
-                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop39">Buy Now</Link>
 
                         </button>  
@@ -761,19 +849,23 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                   <p className='card-text'>
                                                   <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                   </p>
                                                 
-                                                             <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                             <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop40">Buy Now</Link>
                                                 
                                                                         </button>  
@@ -788,19 +880,23 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                     </p>
 
-                                                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop41">Buy Now</Link>
 
                         </button>  
@@ -812,19 +908,23 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                                                     </p>
 
-                                                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop42">Buy Now</Link>
 
                         </button>  
@@ -849,19 +949,23 @@ export default function About() {
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                         <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                                           </p>
                                       
-                                                   <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                   <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop43">Buy Now</Link>
                                       
                                                               </button>  
@@ -876,19 +980,23 @@ export default function About() {
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                         <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
                   Trouser
                   </li>
 
                   <li>
-                  Product ID:
+                  <span>Product ID:</span>99016
+                  </li>
+
+                  <li>
+                  Delivery in 3-5 days
                   </li>
                   
                                           </p>
 
-                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop44">Buy Now</Link>
 
                         </button>  
@@ -900,19 +1008,23 @@ export default function About() {
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                         <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                           </p>
 
-                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop45">Buy Now</Link>
 
                         </button>  
@@ -940,19 +1052,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
                                                   
-                                                               <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                               <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                               <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop46">Buy Now</Link>
                                                   
                                                                           </button>  
@@ -967,19 +1083,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop47">Buy Now</Link>
 
                         </button>  
@@ -991,19 +1111,22 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
-                  <li>
-                  Product ID:
+                   <li>
+                  <span>Product ID:</span>99016
                   </li>
-                  
+
+                  <li>
+                  Delivery in 3-5 days
+                  </li>
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop48">Buy Now</Link>
 
                         </button>  
@@ -1022,19 +1145,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                 <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
                                                   
-                                                               <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                               <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                               <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop49">Buy Now</Link>
                                                   
                                                                           </button>  
@@ -1049,19 +1176,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop50">Buy Now</Link>
 
                         </button>  
@@ -1073,19 +1204,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                 <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop51">Buy Now</Link>
 
                         </button>  
@@ -1101,24 +1236,28 @@ export default function About() {
 
 
                                                   
-                                                  <div className='container'>
+                                         <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+               <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
                                                   
-                                                               <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                               <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                               <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop52">Buy Now</Link>
                                                   
                                                                           </button>  
@@ -1133,19 +1272,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop53">Buy Now</Link>
 
                         </button>  
@@ -1157,19 +1300,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop54">Buy Now</Link>
 
                         </button>  
@@ -1190,19 +1337,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
                                                   
-                                                               <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                               <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                               <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop55">Buy Now</Link>
                                                   
                                                                           </button>  
@@ -1217,19 +1368,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop56">Buy Now</Link>
 
                         </button>  
@@ -1241,19 +1396,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop57">Buy Now</Link>
 
                         </button>  
@@ -1274,19 +1433,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
                                                   
-                                                               <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                               <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                               <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop58">Buy Now</Link>
                                                   
                                                                           </button>  
@@ -1301,19 +1464,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                 <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop59">Buy Now</Link>
 
                         </button>  
@@ -1325,19 +1492,23 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img src="simg.png" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">Card title <span className='text-danger'>Rs...</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                   Trouser
                   </li>
 
+                   <li>
+                  <span>Product ID:</span>99016
+                  </li>
+
                   <li>
-                  Product ID:
+                  Delivery in 3-5 days
                   </li>
                   
                                                       </p>
 
-                                                      <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                      <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop60">Buy Now</Link>
 
                         </button>  

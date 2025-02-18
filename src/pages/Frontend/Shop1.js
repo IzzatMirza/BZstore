@@ -24,60 +24,60 @@ export default function Shop1() {
 
 
 </div>
-
-<div className='container mt-3'>
-<li>
   
-  Fabric: Viscose
-</li>
-<li>
-  Shirt Front: Schiffli Embroidered Viscose
-</li>
-<li>
-  Shirt Back: Digital Printed Viscose
-</li>
+  <div className='container mt-3'>
+  <li>
+    
+    Fabric: Viscose
+  </li>
+  <li>
+    Shirt Front: Schiffli Embroidered Viscose
+  </li>
+  <li>
+    Shirt Back: Digital Printed Viscose
+  </li>
 
-  Sleeves: Digital Printed Viscose
-<li>
-  Trouser: Dyed Viscose
-</li>
-<li>
+    Sleeves: Digital Printed Viscose
+  <li>
+    Trouser: Dyed Viscose
+  </li>
+  <li>
 
-  Dupatta: Printed Thai Silk
-</li>
+    Dupatta: Printed Thai Silk
+  </li>
 
-  Shirt Front Cutting: 1.25 Meter
-<li>
+    Shirt Front Cutting: 1.25 Meter
+  <li>
 
-  Shirt Back And Sleeves Cutting: 1.85
-</li>
-<li>
+    Shirt Back And Sleeves Cutting: 1.85
+  </li>
+  <li>
 
-  Trouser Cutting 2.5 Meter
-</li>
-<li>
+    Trouser Cutting 2.5 Meter
+  </li>
+  <li>
 
-  Dupatta Cutting: 2.5 Meter
-</li>
+    Dupatta Cutting: 2.5 Meter
+  </li>
 
-<li>
+  <li>
 
-  Note: There might be 1-3 cm errors of dimension data due to pure manual measurement
-</li>
+    Note: There might be 1-3 cm errors of dimension data due to pure manual measurement
+  </li>
 
-<li>
+  <li>
 
-  There might be slightly color difference due to different light and monitor effect.
-</li>
-<li><span className='text-danger'>Return Within 7 days</span>
+    There might be slightly color difference due to different light and monitor effect.
+  </li>
+  <li><span className='text-danger'>Return Within 7 days</span>
+                    
+                    </li>
                   
-                  </li>
-                  <li>
-  <h3><span className='text-danger'>Product ID</span>: 99001</h3>
-</li>
-  {/* Product Code: MZ47200019AMNAB */}
+    <h3><span className='text-danger'>Product ID</span>: 99001</h3>
 
-</div>
+    {/* Product Code: MZ47200019AMNAB */}
+
+  </div>
 
     
 
