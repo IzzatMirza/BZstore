@@ -22,3 +22,26 @@
 main {
     flex: 1 0 auto;
 }
+
+
+#pics {
+
+    
+    // background-color: green;
+    transition: transform .2s; /* Animation */
+    // width: 200px;
+    // height: 200px;
+    margin: 0 auto;
+
+
+    // background: #73AD21
+    // padding: 20px;
+    // width: 200px;
+    // height: 150px;
+
+}
+
+#pics:hover {
+    transform: scale(1.3);
+    // border-radius: px;
+}

@@ -7,12 +7,12 @@ export default function Shop53() {
     <div className='container '>
       <div className='row'>
     <div className='rounded col-12 col-md-6 col-sm-6 mt-3'>
-    <img src='shop1img.jpeg' className='responsive'></img>
+    <img src='s53i1.jpg' className='responsive'></img>
     </div>
     
     
     <div className='rounded col-12 col-md-6 col-sm-6 mt-3'>
-    <img src='shop1img2.jpeg' className='responsive'></img>
+    <img src='s53i2.jpg' className='responsive'></img>
     
     </div>
       </div>
@@ -20,6 +20,42 @@ export default function Shop53() {
     
     </div>
     
+
+    
+    <div className='container mt-3'>
+  <li>
+  Fabric: Rubber And Synthetic Strip
+  </li>
+  <li>
+  Upper Sole: Strip
+  </li>
+  <li>
+  Lower Sole: Rubber
+  </li>
+
+  <li>
+  Pattern: Beach
+  </li>
+  <li>
+  Product Type: Slipper
+  </li>
+
+  <li>
+  Size:7/40, 8/41, 9/42, 10/43, 11/44
+  </li>
+  
+  {/* Product Code: MZ82000056JFSPT */}
+
+
+  <li><span className='text-danger'>Return Within 7 days</span>
+                    
+                    </li>
+                  
+    <h3><span className='text-danger'>Product ID</span>: 99053</h3>
+
+
+</div>
+
         
     
     <div className='d-flex justify-content-center'>

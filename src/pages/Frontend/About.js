@@ -384,16 +384,16 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                      <img src="s26i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">4199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
-                  Trouser
+                                        3 PCS Women's Unstitched Organza Mirror Work Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99026
                   </li>
 
                   <li>
@@ -412,15 +412,15 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                      <img src="s27i1.jpg" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
-                  Trouser
+                                        Cozy Cotton Jersey Printed Night Suit
                   </li>
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99027
                   </li>
 
                   <li>
@@ -452,16 +452,16 @@ export default function About() {
                                      <div className='container'>
                                                 <div className='row justify-content-center'>
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                  <img src="s28i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">1400<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
-                  Trouser
+                                                    2 PCS Women's Stitched Cotton Jersey Printed Night Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99028
                   </li>
 
                   <li>
@@ -482,16 +482,16 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                  <img src="s29i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">1899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
-                  Trouser
+                                                    2 PCS Women's Stitched Printed Night Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99029
                   </li>
 
                   <li>
@@ -510,16 +510,16 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                                  <img src="s30i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
-                  Trouser
+                                                    2 PCS Women's Stitched Printed Night Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99030
                   </li>
 
                   <li>
@@ -550,16 +550,16 @@ export default function About() {
  <div className='container'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+              <img src="s31i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
-                  Trouser
+                Comfortable Cotton Jersey Printed Night Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99031
                   </li>
 
                   <li>
@@ -580,16 +580,16 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+              <img src="s32i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
-                  Trouser
+                Comfortable Cotton Jersey Printed Night Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99032
                   </li>
 
                   <li>
@@ -606,16 +606,16 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+              <img src="s33i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
-                  Trouser
+                Comfortable Cotton Jersey Printed Night Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99033
                   </li>
 
                   <li>
@@ -647,16 +647,16 @@ export default function About() {
              <div className='container'>
                         <div className='row justify-content-center'>
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                          <img src="s34i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
-                  Trouser
+                  
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99034
                   </li>
 
                   <li>
@@ -677,16 +677,16 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                          <img src="s35i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
-                  Trouser
+                            Fast Drying Hair Dryer with Cold/Warm/Hot Settings-3500W powerful Performance
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99035
                   </li>
 
                   <li>
@@ -705,16 +705,16 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                          <img src="s36i1.jpg" class="card-img-top mt-2" alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">4999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
-                  Trouser
+                            Black Wireless Headphone with Active Noise Cancellation
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99036
                   </li>
 
                   <li>
@@ -745,16 +745,16 @@ export default function About() {
                          <div className='container'>
                                     <div className='row justify-content-center'>
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                      <img src="s37i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">3699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
-                  Trouser
+                                        Air Pods Pro 2nd Gen with Magsafe Charging Case USB-C
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99037
                   </li>
 
                   <li>
@@ -776,16 +776,16 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                      <img src="s38i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">3750<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
-                  Trouser
+                                        Wireless Black Airbuds
                   </li>
 
                     <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99038
                   </li>
 
                   <li>
@@ -804,16 +804,16 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                      <img src="s39i1.jpg" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
-                  Trouser
+                                        7 in 1 Ultra Smart Watch
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99039
                   </li>
 
                   <li>
@@ -847,16 +847,16 @@ export default function About() {
                                      <div className='container'>
                                                 <div className='row justify-content-center'>
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                  <img src="s40i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                   <p className='card-text'>
                                                   <li>
-                  Trouser
+                                                  4 in 1 Straps Ultra Smartwatch
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99040
                   </li>
 
                   <li>
@@ -878,16 +878,16 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                  <img src="s41i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">2099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
-                  Trouser
+                                                    T900 Ultra 2 Smart Watch
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99041
                   </li>
 
                   <li>
@@ -906,16 +906,16 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                                  <img src="s42i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
-                  Trouser
+                                                    HK-09 Smart Watch
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99042
                   </li>
 
                   <li>
@@ -947,16 +947,16 @@ export default function About() {
                            <div className='container'>
                                       <div className='row justify-content-center'>
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                        <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                        <img src="s43i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                        <h5 class="card-title">2099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
-                  Trouser
+                                          Unisex Printed T-Shirt & Trouser for Summer
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99043
                   </li>
 
                   <li>
@@ -978,16 +978,16 @@ export default function About() {
                                       
                                       
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                        <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                        <img src="s44i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                        <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
-                  Trouser
+                                          Men's Grey Printed Micro Interlock Track Suit
                   </li>
 
                   <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99044
                   </li>
 
                   <li>
@@ -1006,16 +1006,16 @@ export default function About() {
                                       
                                       
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                        <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                        <img src="s45i1.jpg" class="card-img-top mt-2" alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                        <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
-                  Trouser
+                                          Men's Grey Printed Micro Interlock Track Suit
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99045
                   </li>
 
                   <li>
@@ -1050,16 +1050,16 @@ export default function About() {
                                        <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img src="s46i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Men's Micro Interlock Track Suit
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99046
                   </li>
 
                   <li>
@@ -1081,16 +1081,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img src="s47i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Men's Micro Interlock Track Suit
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99047
                   </li>
 
                   <li>
@@ -1109,16 +1109,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                                    <img src="s48i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Men's Micro Interlock Track Suit
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99048
                   </li>
 
                   <li>
@@ -1143,16 +1143,16 @@ export default function About() {
                                                   <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img src="s49i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Men's Dri Fit Printed Track suit
                   </li>
 
                  <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99049
                   </li>
 
                   <li>
@@ -1174,16 +1174,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics' src="s50i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Men's Micro Interlock Track Suit
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99050
                   </li>
 
                   <li>
@@ -1202,16 +1202,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                                    <img src="s51i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Jafspot Men's Handmade New peshawari Chappal
                   </li>
 
                  <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99051
                   </li>
 
                   <li>
@@ -1239,16 +1239,16 @@ export default function About() {
                                          <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img src="s52i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Jafspot Men's Handmade New peshawari Chappal
                   </li>
 
                <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99052
                   </li>
 
                   <li>
@@ -1270,16 +1270,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics' src="s53i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Summer Slipper
                   </li>
 
                 <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99053
                   </li>
 
                   <li>
@@ -1298,16 +1298,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                                    <img src="s54i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Summer Dotted Slipper
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99054
                   </li>
 
                   <li>
@@ -1335,16 +1335,16 @@ export default function About() {
                                                   <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img src="s55i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Jafspot Men's Comfortable Premium Slipper
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99055
                   </li>
 
                   <li>
@@ -1366,16 +1366,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img src="s56i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Jafspot Men's Comfortable Premium Slipper
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99056
                   </li>
 
                   <li>
@@ -1394,16 +1394,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                                    <img id='pics' src="s57i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Jafspot Men's Comfortable Premium Slipper
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99057
                   </li>
 
                   <li>

@@ -123,7 +123,7 @@ export default function Home() {
 </div>
 <div className='d-flex  justify-content-center mt-2'>
 
-    <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
+    <button  id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="clothe">Clothes🥼</Link>
 
                         </button>

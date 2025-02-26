@@ -43,10 +43,10 @@ export default function Contact() {
 
 
     if (fullName.length < 3) {
-        return window.toastify("Enter Correct Name", "error")
+        return window.toastify("Something Went Wrong 🤷‍♂️", "error")
     }
     if (comid.length < 4) {
-        return window.toastify("Enter ID", "error")
+        return window.toastify("Enter ID Please 😘", "error")
     }
     if (subject.length < 1
 
@@ -98,7 +98,7 @@ export default function Contact() {
                                     </div>
 
                                     <div className='col-12 col-md-6 mb-2 '>
-                                        <input className='form-control ' onChange={handleChange} type="text" name='comid' placeholder='Product ID Compulsory' />
+                                        <input className='form-control ' onChange={handleChange} type="text" name='comid' placeholder='Product ID Compulsory🙏' />
                                     </div>
 
                                     <div className='col-12 col-md-6 mb-2 '>

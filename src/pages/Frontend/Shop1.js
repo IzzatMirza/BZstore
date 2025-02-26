@@ -88,7 +88,54 @@ export default function Shop1() {
                                           </button>  
                                           </div>
 
-  
+                                          <div className='container mt-3'>
+  <li>
+    
+  </li>
+  <li>
+    
+  </li>
+  <li>
+
+  </li>
+
+  <li>
+
+  </li>
+  <li>
+
+  </li>
+
+  <li>
+
+  </li>
+  <li>
+
+  </li>
+  <li>
+
+  </li>
+
+  <li>
+
+  </li>
+
+  <li>
+
+  </li>
+
+
+  <li><span className='text-danger'>Return Within 7 days</span>
+                    
+                    </li>
+                  
+    <h3><span className='text-danger'>Product ID</span>: 99028</h3>
+
+
+</div>
+
+
+
 
     </>
   )
