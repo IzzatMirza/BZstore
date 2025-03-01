@@ -226,6 +226,8 @@ import S45 from './S45'
 import S46 from './S46'
 import S47 from './S47'
 import S48 from './S48'
+import Prompt from './Prompt'
+import Z from './Z'
 
 
 
@@ -246,6 +248,7 @@ export default function Index() {
         <Route path='video' element={<Video/>}/>
         <Route path='*' element={<Nopage />} />
         <Route path='clothe' element={<Clothe />} />
+        <Route path='z' element={<Z />} />
 
         <Route path='clothe1' element={<Clothe1 />} />
         <Route path='clothe2' element={<Clothe2 />} />
@@ -464,6 +467,7 @@ export default function Index() {
         <Route path='S46' element={<S46 />} />
         <Route path='S47' element={<S47 />} />
         <Route path='S48' element={<S48 />} />
+        <Route path='prompt' element={<Prompt />} />
 
 
 

@@ -5,7 +5,10 @@ import { useNavigate } from 'react-router-dom';
 
 import { firestore } from 'config/firebase';
 import {  doc, serverTimestamp, setDoc } from 'firebase/firestore';
+  
 
+
+// 
 
 const initialstate = {
     fullName : "" ,
@@ -18,6 +21,7 @@ const initialstate = {
 }
 
 export default function Contact() {
+
 
   const [state, setState] = useState(initialstate)
   const [processing  , setProcessing] = useState (false)
@@ -48,10 +52,16 @@ export default function Contact() {
     if (comid.length < 4) {
         return window.toastify("Enter ID Please 😘", "error")
     }
+    if (city.length < 4) {
+        return window.toastify("Enter Complete Address ", "error")
+    }
+    if (phone.length < 11) {
+        return window.toastify("Enter Complete Phone NO.  😘", "error")
+    }
     if (subject.length < 1
 
     ) {
-        return window.toastify("Enter Correct Subject", "error")
+        return window.toastify("Enter Product Size ", "error")
     }
     
     if (!window.isEmail(email)) {
@@ -107,7 +117,7 @@ export default function Contact() {
 
 
                                     <div className='col-12 col-md-6 mb-2 '>
-                                        <input className='form-control ' onChange={handleChange} type="Phone" name='city' placeholder='Address' />
+                                        <input className='form-control ' onChange={handleChange} type="text" name='city' placeholder='Address' />
                                     </div>
 
 
@@ -140,5 +150,5 @@ export default function Contact() {
             </div>
     </>
   )
-}
 
+}

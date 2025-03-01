@@ -110,7 +110,7 @@ export default function Home() {
 
 
 
-
+{/* 
 
 <div className='container mt-4'>
   <div className='row'>
@@ -155,7 +155,7 @@ export default function Home() {
                     
     </div>
 
-  </div>
+  </div> */}
 
 
 
@@ -165,7 +165,7 @@ export default function Home() {
   <div className='container mt-3'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s1i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s1i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3900<span className='text-'>rs </span><span className='text-danger'>9%off</span></h5>
 
@@ -195,7 +195,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s2i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s2i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3299<span className='text-'>rs </span><span className='text-danger'>4%off</span></h5>
 
@@ -225,7 +225,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s3i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s3i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3850<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
 
@@ -275,7 +275,7 @@ export default function Home() {
 <div className='container mt-3'>
             <div className='row justify-content-center'>
             <div  class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s4i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s4i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1650<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
@@ -305,7 +305,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s5i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s5i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
 
@@ -335,7 +335,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s6i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s6i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
@@ -378,7 +378,7 @@ export default function Home() {
             <div className='container mt-3'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s7i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s7i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1650<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
@@ -408,7 +408,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s8i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pic'src="s8i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">2400<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
 
@@ -438,7 +438,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s9i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s9i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">2150<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
@@ -484,7 +484,7 @@ export default function Home() {
 <div className='container'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s10i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s10i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -515,7 +515,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s11i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s11i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3500<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -545,7 +545,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s12i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s12i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">12999<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
                 <p class="card-text">
@@ -573,7 +573,7 @@ export default function Home() {
 
 
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s13i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s13i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -602,7 +602,7 @@ export default function Home() {
 
 
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s14i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s14i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -631,7 +631,7 @@ export default function Home() {
 
 
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s15i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s15i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1650<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">

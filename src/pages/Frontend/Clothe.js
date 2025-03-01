@@ -1352,6 +1352,21 @@ export default function Clothe() {
     
     
     
+                                                      <div className='d-flex justify-content-center '>
+    
+     <button id='shadow' className='btn  mx-2  w-auto animate__animated animate__swing animate__delay-4s justify-content-center'>
+                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/watch">Continue Shopping...</Link>
+    
+                            </button>
+                            <lord-icon
+                src="https://cdn.lordicon.com/hwpohgdf.json"
+                trigger="loop"
+                delay="1500" 
+                state="in-dynamic"
+                style={{ width: "50px", height: "50px" }}>
+              </lord-icon>
+              
+         </div>
          
     
     

@@ -22,14 +22,21 @@ export default function Header() {
             style={{ width: "50px", height: "50px" }}>
           </lord-icon> */}
 
-<lord-icon
+{/* <lord-icon
     src="https://cdn.lordicon.com/dznelzdk.json"
     trigger="loop"
     colors="primary:#c79816,secondary:#000000,tertiary:#b26836,quaternary:#3a3347,quinary:#646e78,senary:#ebe6ef"
     style={{ width: "50px", height: "50px" }}>
 </lord-icon>
-         
+          */}
           
+
+          <lord-icon
+    src="https://cdn.lordicon.com/hcgabluf.json"
+    trigger="loop"
+    delay="2000"
+    style={{ width: "50px", height: "50px" }}>
+</lord-icon>
 
 
 

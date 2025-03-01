@@ -47,24 +47,29 @@ export default function About() {
         </div>
     
       </div>
-     
-{/* card 111111111111111111111111111111111111111111111111111111111111111111111 */}
-{/* 111111111111111111111111111111111111111111111111111111111111 */}
 
-<div className='d-flex justify-content-center my-2'>
+
+      <div className='d-flex justify-content-center my-2'>
 <button id='shadow' className='btn mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                         <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/">Return To Home</Link>
             
                                     </button>  
                                     </div>       
 
+
+
+
+{/* card 111111111111111111111111111111111111111111111111111111111111111111111 */}
+{/* 111111111111111111111111111111111111111111111111111111111111 */}
+
 <div className='container'>
 <div className='row justify-content-center'>
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
-  <img src="s16i1.jpg" class="card-img-top mt-2 " alt="..."/>
+  <img id='pics'src="s16i1.jpg" class="card-img-top mt-2 " alt="..."/>
+  <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
   <div class="card-body">
-  <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
-  <h6>Order ID: 4567</h6>
+  
+  
     <p class="card-text">
     <li>
     Men's Raxine Formal Loafers
@@ -95,9 +100,9 @@ export default function About() {
 
 
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
-  <img src="s17i1.jpg" class="card-img-top mt-2 " alt="..."/>
+  <img id='pics'src="s17i1.jpg" class="card-img-top mt-2 " alt="..."/>
   <div class="card-body">
-  <h5 class="card-title">1450<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+  <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
     <p class="card-text">
     <li>
     Black Earbuds  with 2000mAh Power Bank D-LED M-10 Hifi-Sound
@@ -122,7 +127,7 @@ export default function About() {
 
 
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
-  <img src="s18i1.jpg" class="card-img-top mt-2" alt="..."/>
+  <img id='pics'src="s18i1.jpg" class="card-img-top mt-2" alt="..."/>
   <div class="card-body">
   <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
     <p class="card-text">
@@ -161,7 +166,7 @@ export default function About() {
  <div className='container'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s19i1.jpg" class="card-img-top mt-2 " alt="..."/>
+              <img id='pics'src="s19i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1450<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -191,7 +196,7 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s20i1.jpg" class="card-img-top mt-2 " alt="..."/>
+              <img id='pics'src="s20i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
               <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -217,7 +222,7 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s21i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s21i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -256,7 +261,7 @@ export default function About() {
              <div className='container'>
                         <div className='row justify-content-center'>
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="s22i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                          <img id='pics'src="s22i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
                           <h5 class="card-title">3799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
@@ -286,7 +291,7 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="s23i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                          <img id='pics'src="s23i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
                           <h5 class="card-title">2599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
@@ -313,7 +318,7 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="s24i1.jpg" class="card-img-top mt-2" alt="..."/>
+                          <img id='pics' src="s24i1.jpg" class="card-img-top mt-2" alt="..."/>
                           <div class="card-body">
                           <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
@@ -353,7 +358,7 @@ export default function About() {
                          <div className='container'>
                                     <div className='row justify-content-center'>
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="s25i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                      <img id='pics'src="s25i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
                                       <h5 class="card-title">2599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
@@ -384,7 +389,7 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="s26i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                      <img id='pics'src="s26i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
                                       <h5 class="card-title">4199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
@@ -412,7 +417,7 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="s27i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                      <img id='pics'src="s27i1.jpg" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
                                       <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
@@ -452,7 +457,7 @@ export default function About() {
                                      <div className='container'>
                                                 <div className='row justify-content-center'>
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="s28i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                  <img id='pics'src="s28i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
                                                   <h5 class="card-title">1400<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
@@ -482,7 +487,7 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="s29i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                  <img id='pics'src="s29i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
                                                   <h5 class="card-title">1899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
@@ -510,7 +515,7 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="s30i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                                  <img id='pics'src="s30i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
                                                   <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
@@ -550,7 +555,7 @@ export default function About() {
  <div className='container'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s31i1.jpg" class="card-img-top mt-2 " alt="..."/>
+              <img id='pics'src="s31i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -580,7 +585,7 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s32i1.jpg" class="card-img-top mt-2 " alt="..."/>
+              <img id='pics'src="s32i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -606,7 +611,7 @@ export default function About() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img src="s33i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pics'src="s33i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -647,7 +652,7 @@ export default function About() {
              <div className='container'>
                         <div className='row justify-content-center'>
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="s34i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                          <img id='pics'src="s34i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
                           <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
@@ -677,7 +682,7 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="s35i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                          <img id='pics'src="s35i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
                           <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
@@ -705,7 +710,7 @@ export default function About() {
                         
                         
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                          <img src="s36i1.jpg" class="card-img-top mt-2" alt="..."/>
+                          <img id='pics'src="s36i1.jpg" class="card-img-top mt-2" alt="..."/>
                           <div class="card-body">
                           <h5 class="card-title">4999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
@@ -745,7 +750,7 @@ export default function About() {
                          <div className='container'>
                                     <div className='row justify-content-center'>
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="s37i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                      <img id='pics'src="s37i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
                                       <h5 class="card-title">3699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
@@ -776,7 +781,7 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="s38i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                      <img id='pics'src="s38i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
                                       <h5 class="card-title">3750<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
@@ -804,7 +809,7 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img src="s39i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                      <img id='pics'src="s39i1.jpg" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
                                       <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
@@ -847,7 +852,7 @@ export default function About() {
                                      <div className='container'>
                                                 <div className='row justify-content-center'>
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="s40i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                  <img id='pics'src="s40i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
                                                   <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                   <p className='card-text'>
@@ -878,7 +883,7 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="s41i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                  <img id='pics'src="s41i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
                                                   <h5 class="card-title">2099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
@@ -906,7 +911,7 @@ export default function About() {
                                                 
                                                 
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img src="s42i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                                  <img id='pics'src="s42i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
                                                   <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
@@ -947,7 +952,7 @@ export default function About() {
                            <div className='container'>
                                       <div className='row justify-content-center'>
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                        <img src="s43i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                        <img id='pics'src="s43i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
                                         <h5 class="card-title">2099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
@@ -978,7 +983,7 @@ export default function About() {
                                       
                                       
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                        <img src="s44i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                        <img id='pics'src="s44i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
                                         <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
@@ -1006,7 +1011,7 @@ export default function About() {
                                       
                                       
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                        <img src="s45i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                        <img id='pics'src="s45i1.jpg" class="card-img-top mt-2" alt="..."/>
                                         <div class="card-body">
                                         <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
@@ -1050,7 +1055,7 @@ export default function About() {
                                        <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s46i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s46i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1081,7 +1086,7 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s47i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s47i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1109,7 +1114,7 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s48i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                                    <img id='pics'src="s48i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1143,7 +1148,7 @@ export default function About() {
                                                   <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s49i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s49i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1202,7 +1207,7 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s51i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                                    <img id='pics'src="s51i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1239,7 +1244,7 @@ export default function About() {
                                          <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s52i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s52i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1298,7 +1303,7 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s54i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                                    <img id='pics'src="s54i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1335,7 +1340,7 @@ export default function About() {
                                                   <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s55i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s55i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">1050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1366,7 +1371,7 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="s56i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s56i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
                                                     <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
@@ -1431,16 +1436,16 @@ export default function About() {
                                                   <div className='container'>
                                                   <div className='row justify-content-center'>
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s58i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Smart Watch
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99058
                   </li>
 
                   <li>
@@ -1462,16 +1467,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pics'src="s59i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">3799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      Microwave Smart Watch
                   </li>
 
                  <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99059
                   </li>
 
                   <li>
@@ -1490,16 +1495,16 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img src="simg.png" class="card-img-top mt-2" alt="..."/>
+                                                    <img id='pic'src="s60i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">3699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
-                  Trouser
+                                                      3 Pcs Women's Unstitched Chikankari Ambroidred Suit
                   </li>
 
                    <li>
-                  <span>Product ID:</span>99016
+                  <span>Product ID:</span>99060
                   </li>
 
                   <li>
@@ -1523,7 +1528,21 @@ export default function About() {
 
 
 
-     
+                                                  <div className='d-flex justify-content-center '>
+
+ <button id='shadow' className='btn  mx-2  w-auto animate__animated animate__swing animate__delay-4s justify-content-center'>
+                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/clothe">Continue Shopping...</Link>
+
+                        </button>
+                        <lord-icon
+            src="https://cdn.lordicon.com/hwpohgdf.json"
+            trigger="loop"
+            delay="1500" 
+            state="in-dynamic"
+            style={{ width: "50px", height: "50px" }}>
+          </lord-icon>
+          
+     </div>
 
 
 

@@ -27,21 +27,36 @@ main {
 #pics {
 
     
-    // background-color: green;
-    transition: transform .2s; /* Animation */
-    // width: 200px;
-    // height: 200px;
+    transition: transform .3s;
     margin: 0 auto;
-
-
-    // background: #73AD21
-    // padding: 20px;
-    // width: 200px;
-    // height: 150px;
 
 }
 
-#pics:hover {
-    transform: scale(1.3);
-    // border-radius: px;
+#pics:active {
+    transform: scale(1.4);
+
+    
+
+}
+
+
+
+#pic {
+
+    
+    transition: transform .3s;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+
+#pic:hover {
+    transform: scale(1.1);
+
+    
+
 }
