@@ -17,10 +17,10 @@ export default function Home() {
 
                         <div style={{ border: "1px solid black" }}></div>
 
-                        <h4 className=' animate__animated animate__flash animate__delay-2s' style={{fontFamily:"revert"}}>Welcome to our BuyZone online store, where style meets comfort. We offer a wide range of trendy clothing, chic footwear, and beauty products, including makeup and accessories, to elevate your everyday look.</h4>
+                        <h4 className=' animate__animated animate__flash animate__delay-2s' style={{fontFamily:"revert"}}>Welcome to our BuyZone online store, where style meets comfort. We offer a wide range of Premium Quality trendy clothing, chic footwear, and beauty products, including makeup and accessories, to elevate your everyday look.</h4>
 
-                        <button id='shadow' className='btn text-white btn-warning mx-2  w-auto animate__animated animate__swing animate__delay-4s'>
-                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="about">Shopping</Link>
+                        <button id='shadow' className='btn  btn-secondary mx-2  w-auto animate__animated animate__swing animate__delay-4s'>
+                            <Link style={{ textDecoration: "none", color: "white", fontSize: "20px" }}  to="about">Shopping</Link>
 
                         </button>
 
@@ -34,8 +34,8 @@ export default function Home() {
           </lord-icon>
 
 
-                        <button id='shadow' className='btn btn-secondary  animate__animated animate__swing animate__delay-4s'>
-                            <Link style={{ textDecoration: "none", color: "white", fontSize: "20px" }} to="https://pakgames.net/#/register?invitationCode=8552295284">Play Games & Earn Money</Link>
+                        <button id='shadow' className='btn btn-warning text-dark animate__animated animate__swing animate__delay-4s'>
+                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="https://pakgames.net/#/register?invitationCode=8552295284">Play Games & Earn Money</Link>
                            
                   
                         </button>
@@ -86,8 +86,9 @@ export default function Home() {
 
             <div className='container mt-4' style={{ border: "1px solid black" }}></div>
 
+<h3 className='d-flex justify-content-center mt-2'>Top Trending Products</h3>
 
-<div className='container d-flex w-100 justify-content-center mx-auto mt-5'>
+<div className='container d-flex w-100 justify-content-center mx-auto mt-3'>
   {/* <video autoPlay src='vid1.mp4'>
 
   </video> */}
@@ -158,25 +159,24 @@ export default function Home() {
   </div> */}
 
 
-
-
+            
 
 
   <div className='container mt-3'>
             <div className='row justify-content-center'>
-            <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img id='pics'src="s1i1.jpg" class="card-img-top mt-2" alt="..."/>
+
+
+<div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
+              <img id='pics'src="s12i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">3900<span className='text-'>rs </span><span className='text-danger'>9%off</span></h5>
-
+              <h5 class="card-title">12999<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
                 <p class="card-text">
-
-                  <li>
-                  Women's 3PCS Suit
+                <li>
+                Hottu Hot10 Pulse Waterproof Smartwatch
                   </li>
 
-                  <li>
-                  <span>Product ID:</span>99001
+                                    <li>
+                  <span>Product ID:</span>99012
                   </li>
 
                   <li>
@@ -184,12 +184,11 @@ export default function Home() {
                   </li>
                   
                 </p>
-                                        <button id='shadow' className='btn btn- mx-2  w-auto animate__animated animate__swing animate__delay-4s'>
-                                        <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop1">Buy Now</Link>
+
+                <button id='shadow' className='btn btn- mx-2  w-auto animate__animated animate__swing animate__delay-4s'>
+                                        <Link style={{ textDecoration: "none", color: "black", fontSize:"20px" }} to="/shop12">Buy Now</Link>
             
                                     </button>  
-                                    
-            
               </div>
             </div>
             
@@ -225,7 +224,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img id='pics'src="s3i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pic'src="s3i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3850<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
 
@@ -305,7 +304,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img id='pics'src="s5i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pic'src="s5i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
 
@@ -335,7 +334,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img id='pics'src="s6i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pic'src="s6i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
@@ -378,7 +377,7 @@ export default function Home() {
             <div className='container mt-3'>
             <div className='row justify-content-center'>
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img id='pics'src="s7i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pic'src="s7i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">1650<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
@@ -515,7 +514,7 @@ export default function Home() {
             
             
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img id='pics'src="s11i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pic'src="s11i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
               <h5 class="card-title">3500<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
@@ -543,18 +542,23 @@ export default function Home() {
               </div>
             </div>
             
+
+
             
+
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-              <img id='pics'src="s12i1.jpg" class="card-img-top mt-2" alt="..."/>
+              <img id='pic'src="s1i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">12999<span className='text-'>rs </span><span className='text-danger'>3%off</span></h5>
+              <h5 class="card-title">3900<span className='text-'>rs </span><span className='text-danger'>9%off</span></h5>
+
                 <p class="card-text">
-                <li>
-                Hottu Hot10 Pulse Waterproof Smartwatch
+
+                  <li>
+                  Women's 3PCS Suit
                   </li>
 
-                                    <li>
-                  <span>Product ID:</span>99012
+                  <li>
+                  <span>Product ID:</span>99001
                   </li>
 
                   <li>
@@ -562,13 +566,16 @@ export default function Home() {
                   </li>
                   
                 </p>
-
-                <button id='shadow' className='btn btn- mx-2  w-auto animate__animated animate__swing animate__delay-4s'>
-                                        <Link style={{ textDecoration: "none", color: "black", fontSize:"20px" }} to="/shop12">Buy Now</Link>
+                                        <button id='shadow' className='btn btn- mx-2  w-auto animate__animated animate__swing animate__delay-4s'>
+                                        <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/shop1">Buy Now</Link>
             
                                     </button>  
+                                    
+            
               </div>
             </div>
+
+
 
 
 

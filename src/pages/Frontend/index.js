@@ -208,26 +208,9 @@ import S27 from './S27'
 import S28 from './S28'
 import S29 from './S29'
 import S30 from './S30'
-import S31 from './S31'
-import S32 from './S32'
-import S33 from './S33'
-import S34 from './S34'
-import S35 from './S35'
-import S36 from './S36'
-import S37 from './S37'
-import S38 from './S38'
-import S39 from './S39'
-import S40 from './S40'
-import S41 from './S41'
-import S42 from './S42'
-import S43 from './S43'
-import S44 from './S44'
-import S45 from './S45'
-import S46 from './S46'
-import S47 from './S47'
-import S48 from './S48'
+
 import Prompt from './Prompt'
-import Z from './Z'
+// import Zocialicons from './ZocialIcons'
 
 
 
@@ -242,13 +225,13 @@ export default function Index() {
 
 
 
+      {/* <Route path='/' element={<Zocialicons />} /> */}
         <Route path='/' element={<Home />} />
         <Route path='about' element={<About />} />
         <Route path='contact' element={<Contact/>} />
         <Route path='video' element={<Video/>}/>
         <Route path='*' element={<Nopage />} />
         <Route path='clothe' element={<Clothe />} />
-        <Route path='z' element={<Z />} />
 
         <Route path='clothe1' element={<Clothe1 />} />
         <Route path='clothe2' element={<Clothe2 />} />
@@ -449,24 +432,6 @@ export default function Index() {
         <Route path='S28' element={<S28 />} />
         <Route path='S29' element={<S29 />} />
         <Route path='S30' element={<S30 />} />
-        <Route path='S31' element={<S31 />} />
-        <Route path='S32' element={<S32 />} />
-        <Route path='S33' element={<S33 />} />
-        <Route path='S34' element={<S34 />} />
-        <Route path='S35' element={<S35 />} />
-        <Route path='S36' element={<S36 />} />
-        <Route path='S37' element={<S37 />} />
-        <Route path='S38' element={<S38 />} />
-        <Route path='S39' element={<S39 />} />
-        <Route path='S40' element={<S40 />} />
-        <Route path='S41' element={<S41 />} />
-        <Route path='S42' element={<S42 />} />
-        <Route path='S43' element={<S43 />} />
-        <Route path='S44' element={<S44 />} />
-        <Route path='S45' element={<S45 />} />
-        <Route path='S46' element={<S46 />} />
-        <Route path='S47' element={<S47 />} />
-        <Route path='S48' element={<S48 />} />
         <Route path='prompt' element={<Prompt />} />
 
 

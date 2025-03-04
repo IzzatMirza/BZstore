@@ -4,6 +4,7 @@
 @import "./sass/navbar";
 @import "./sass/home";
 
+
 #root {
     display: flex;
     flex-direction: column;
@@ -15,6 +16,7 @@
     // background: #fafafa;  /* fallback for old browsers */
 // background: -webkit-linear-gradient(to right, #dfdfde, #dedfde);  /* Chrome 10-25, Safari 5.1-6 */
 // background: linear-gradient(to right, #d4d4d4, #cdcece); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 
 
 }
@@ -32,13 +34,12 @@ main {
 
 }
 
-#pics:active {
+#pics:hover {
     transform: scale(1.4);
 
     
 
 }
-
 
 
 #pic {
@@ -50,13 +51,19 @@ main {
 }
 
 
-
-
-
-
 #pic:hover {
     transform: scale(1.1);
 
     
 
 }
+
+
+//////////////////
+/// 
+/// 
+/// 
+
+
+
+// SCSS file for bubble animation

@@ -61,6 +61,11 @@ const App = () => {
     " How are you?",
     " Good morning!",
     " Have a great day!",
+    "Goodbye!",
+    " Hello!",
+    " How are you?",
+    " Good morning!",
+    " Have a great day!",
     "Goodbye!"
   ];
 
@@ -73,7 +78,7 @@ const App = () => {
 
       // Update the message index to loop back to the first message after the 5th
       messageIndex = (messageIndex + 1) % messages.length;
-    }, 5000); // 5000ms = 5 seconds
+    }, 10000); // 5000ms = 5 seconds
 
     // Clean up the interval on component unmount
     return () => clearInterval(interval);

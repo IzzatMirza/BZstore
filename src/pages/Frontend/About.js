@@ -6,57 +6,6 @@ export default function About() {
     <>
 
 
-    <div className='container justify-content-center my-3'>
-      <div className='row'>
-    
-      <div  className='d-flex justify-content-center mt-2'>
-    
-    <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-        <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/">All👀</Link>
-    
-    </button>
-    </div>
-    
-        <div className='d-flex justify-content-center mt-2'>
-        <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/clothe">Clothes🥼</Link>
-    
-                            </button>
-    </div>
-    <div className='d-flex justify-content-center mt-2'>
-                            <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/Watch">Watches⌚</Link>
-    
-                            </button>
-                            </div>
-    <div  className='d-flex justify-content-center mt-2'>
-                            <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/shoes">Shoes👟</Link>
-    
-                            </button>
-                            </div>
-                            <div  className='d-flex justify-content-center mt-2'>
-    
-                            <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/about">Others🤷‍♀️</Link>
-    
-                            </button>
-                            </div>
-    
-                        
-        </div>
-    
-      </div>
-
-
-      <div className='d-flex justify-content-center my-2'>
-<button id='shadow' className='btn mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
-                                        <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/">Return To Home</Link>
-            
-                                    </button>  
-                                    </div>       
-
-
 
 
 {/* card 111111111111111111111111111111111111111111111111111111111111111111111 */}
@@ -66,7 +15,7 @@ export default function About() {
 <div className='row justify-content-center'>
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
   <img id='pics'src="s16i1.jpg" class="card-img-top mt-2 " alt="..."/>
-  <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+  <h5 class="card-title">3299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
   <div class="card-body">
   
   
@@ -102,7 +51,7 @@ export default function About() {
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
   <img id='pics'src="s17i1.jpg" class="card-img-top mt-2 " alt="..."/>
   <div class="card-body">
-  <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+  <h5 class="card-title">3299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
     <p class="card-text">
     <li>
     Black Earbuds  with 2000mAh Power Bank D-LED M-10 Hifi-Sound
@@ -127,9 +76,9 @@ export default function About() {
 
 
 <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
-  <img id='pics'src="s18i1.jpg" class="card-img-top mt-2" alt="..."/>
+  <img id='pic'src="s18i1.jpg" class="card-img-top mt-2" alt="..."/>
   <div class="card-body">
-  <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+  <h5 class="card-title">3299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
     <p class="card-text">
     <li>
     Earcuffs Wireless Earbuds
@@ -168,7 +117,7 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img id='pics'src="s19i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1450<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                 Bluetooth Earbuds, Green
@@ -198,7 +147,7 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img id='pics'src="s20i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                 Airpods Pro 2
@@ -224,7 +173,7 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img id='pics'src="s21i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1350<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                 Air 31 Wireless Airbuds With Pouch
@@ -263,7 +212,7 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img id='pics'src="s22i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">3799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">3599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                             White Long-Lasting Battery With Fast Charging 19999999999900 Earbuds
@@ -293,7 +242,7 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img id='pics'src="s23i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">2599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                             Air 39 Bluetooth 5.1 Airpods - All Day Comfort
@@ -320,7 +269,7 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img id='pics' src="s24i1.jpg" class="card-img-top mt-2" alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                             Women's Rexine Casual Flats
@@ -358,9 +307,9 @@ export default function About() {
                          <div className='container'>
                                     <div className='row justify-content-center'>
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img id='pics'src="s25i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                      <img id='pic'src="s25i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">2599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                                         Portable Rechargeable Fan
@@ -389,9 +338,9 @@ export default function About() {
                                     
                                     
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                      <img id='pics'src="s26i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                      <img id='pic'src="s26i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">4199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">3999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                                         3 PCS Women's Unstitched Organza Mirror Work Suit
@@ -419,7 +368,7 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img id='pics'src="s27i1.jpg" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">1399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                                         Cozy Cotton Jersey Printed Night Suit
@@ -459,7 +408,7 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img id='pics'src="s28i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1400<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">1200<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                                                     2 PCS Women's Stitched Cotton Jersey Printed Night Suit
@@ -489,7 +438,7 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img id='pics'src="s29i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                                                     2 PCS Women's Stitched Printed Night Suit
@@ -517,7 +466,7 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img id='pics'src="s30i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                                                     2 PCS Women's Stitched Printed Night Suit
@@ -557,7 +506,7 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img id='pics'src="s31i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                 Comfortable Cotton Jersey Printed Night Suit
@@ -587,7 +536,7 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img id='pics'src="s32i1.jpg" class="card-img-top mt-2 " alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                 Comfortable Cotton Jersey Printed Night Suit
@@ -613,7 +562,7 @@ export default function About() {
             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
               <img id='pics'src="s33i1.jpg" class="card-img-top mt-2" alt="..."/>
               <div class="card-body">
-              <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+              <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                 <p class="card-text">
                 <li>
                 Comfortable Cotton Jersey Printed Night Suit
@@ -654,7 +603,7 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img id='pics'src="s34i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                   
@@ -684,7 +633,7 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img id='pics'src="s35i1.jpg" class="card-img-top mt-2 " alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">2199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                             Fast Drying Hair Dryer with Cold/Warm/Hot Settings-3500W powerful Performance
@@ -712,7 +661,7 @@ export default function About() {
                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                           <img id='pics'src="s36i1.jpg" class="card-img-top mt-2" alt="..."/>
                           <div class="card-body">
-                          <h5 class="card-title">4999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                          <h5 class="card-title">4799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                             <p class="card-text">
                             <li>
                             Black Wireless Headphone with Active Noise Cancellation
@@ -752,7 +701,7 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img id='pics'src="s37i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">3699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                                         Air Pods Pro 2nd Gen with Magsafe Charging Case USB-C
@@ -783,7 +732,7 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img id='pics'src="s38i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">3750<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">3550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                                         Wireless Black Airbuds
@@ -811,7 +760,7 @@ export default function About() {
                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                       <img id='pics'src="s39i1.jpg" class="card-img-top mt-2" alt="..."/>
                                       <div class="card-body">
-                                      <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                      <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                         <p class="card-text">
                                         <li>
                                         7 in 1 Ultra Smart Watch
@@ -852,9 +801,9 @@ export default function About() {
                                      <div className='container'>
                                                 <div className='row justify-content-center'>
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                  <img id='pics'src="s40i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                  <img id='pic'src="s40i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">2399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">2199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                   <p className='card-text'>
                                                   <li>
                                                   4 in 1 Straps Ultra Smartwatch
@@ -885,7 +834,7 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img id='pics'src="s41i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">2099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">1899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                                                     T900 Ultra 2 Smart Watch
@@ -913,7 +862,7 @@ export default function About() {
                                                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                   <img id='pics'src="s42i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                   <div class="card-body">
-                                                  <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                  <h5 class="card-title">2299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                     <p class="card-text">
                                                     <li>
                                                     HK-09 Smart Watch
@@ -954,7 +903,7 @@ export default function About() {
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                         <img id='pics'src="s43i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">2099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                        <h5 class="card-title">1899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
                                           Unisex Printed T-Shirt & Trouser for Summer
@@ -985,7 +934,7 @@ export default function About() {
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                         <img id='pics'src="s44i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                        <h5 class="card-title">2050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
                                           Men's Grey Printed Micro Interlock Track Suit
@@ -1013,7 +962,7 @@ export default function About() {
                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                         <img id='pics'src="s45i1.jpg" class="card-img-top mt-2" alt="..."/>
                                         <div class="card-body">
-                                        <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                        <h5 class="card-title">2050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                           <p class="card-text">
                                           <li>
                                           Men's Grey Printed Micro Interlock Track Suit
@@ -1057,7 +1006,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s46i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Men's Micro Interlock Track Suit
@@ -1088,7 +1037,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s47i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Men's Micro Interlock Track Suit
@@ -1116,7 +1065,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s48i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Men's Micro Interlock Track Suit
@@ -1150,7 +1099,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s49i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Men's Dri Fit Printed Track suit
@@ -1181,7 +1130,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics' src="s50i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">2250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Men's Micro Interlock Track Suit
@@ -1209,7 +1158,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s51i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Jafspot Men's Handmade New peshawari Chappal
@@ -1246,7 +1195,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s52i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Jafspot Men's Handmade New peshawari Chappal
@@ -1277,7 +1226,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics' src="s53i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Summer Slipper
@@ -1305,7 +1254,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s54i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Summer Dotted Slipper
@@ -1342,7 +1291,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s55i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1050<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">850<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Jafspot Men's Comfortable Premium Slipper
@@ -1373,7 +1322,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s56i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Jafspot Men's Comfortable Premium Slipper
@@ -1401,7 +1350,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics' src="s57i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Jafspot Men's Comfortable Premium Slipper
@@ -1438,7 +1387,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pics'src="s58i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Smart Watch
@@ -1467,9 +1416,9 @@ export default function About() {
                                                   
                                                   
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                    <img id='pics'src="s59i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                    <img id='pic'src="s59i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">3799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">3599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       Microwave Smart Watch
@@ -1497,7 +1446,7 @@ export default function About() {
                                                   <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                     <img id='pic'src="s60i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                     <div class="card-body">
-                                                    <h5 class="card-title">3699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                    <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
                                                       <p class="card-text">
                                                       <li>
                                                       3 Pcs Women's Unstitched Chikankari Ambroidred Suit
@@ -1531,7 +1480,7 @@ export default function About() {
                                                   <div className='d-flex justify-content-center '>
 
  <button id='shadow' className='btn  mx-2  w-auto animate__animated animate__swing animate__delay-4s justify-content-center'>
-                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/clothe">Continue Shopping...</Link>
+                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/watch">Continue Shopping...</Link>
 
                         </button>
                         <lord-icon

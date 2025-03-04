@@ -3,16 +3,16 @@ import './App.scss';
 import Routes from './pages/Routes';
 import "bootstrap/dist/js/bootstrap.bundle";
 import Prompt from "../src/pages/Frontend/Prompt"
-import Z from "../src/pages/Frontend/Z"
+import Zocialicons from "../src/pages/Frontend/ZocialIcons"
  
 function App() {
   return (
     <>
 
-
+<Zocialicons/>
       <Routes />
-      <Z/>
 {/* <Prompt/> */}
+
       <ToastContainer
       
       position="top-right"

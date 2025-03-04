@@ -19,6 +19,9 @@ export default function Shop10() {
     
     
     </div>
+
+    <div className='mt-3' style={{ border: "1px solid black" }}></div>
+<h4 className='mt-2 d-flex justify-content-center'>Details</h4>
     
      
 <div className='container mt-3'>
@@ -41,6 +44,22 @@ Product Code: MZ76500006JTYWL
                 
   <h3><span className='text-danger'>Product ID</span>: 99010</h3>
 
+  <th>__Delivery Charges__</th>
+    <li>
+<span className='text-bold'>Cash Handling___<span className='text-danger'>Fee</span>___</span>
+      40 </li>
+      <li>
+<span className='text-bold'>Post Ex___<span className='text-danger'>Rs</span>___</span>
+      139"Minimum" </li>
+      <li>
+<span className='text-bold'>Leopards___<span className='text-danger'>Rs</span>___</span>
+      210. </li>
+      <li>
+<span className='text-bold'>Trax_____<span className='text-danger'>Rs</span>_____</span>
+      210. </li>
+      <li>
+<span className='text-bold'>Tcs_____<span className='text-danger'>Rs</span>_____</span>
+      210. </li>
 
 </div>
     

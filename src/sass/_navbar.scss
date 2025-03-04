@@ -9,15 +9,25 @@
 // }
 
 .nav-link:hover {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(61, 20, 20) !important;
     font-stretch: condensed !important;
 font-weight: bold;
     transition: 0.3s;
 }
 .navbar {
+  
+  // display: 'flex';
+  
+
+  
+
+
 
 background: #646965;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #968940, #25442f);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #DBEBC0, #DBEBC0) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+
+
+

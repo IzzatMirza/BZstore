@@ -14,21 +14,6 @@ export default function Header() {
         <div className="container">
 
 
-          {/* <lord-icon
-            src="https://cdn.lordicon.com/hwpohgdf.json"
-            trigger="loop"
-            delay="1500"
-            state="in-dynamic"
-            style={{ width: "50px", height: "50px" }}>
-          </lord-icon> */}
-
-{/* <lord-icon
-    src="https://cdn.lordicon.com/dznelzdk.json"
-    trigger="loop"
-    colors="primary:#c79816,secondary:#000000,tertiary:#b26836,quaternary:#3a3347,quinary:#646e78,senary:#ebe6ef"
-    style={{ width: "50px", height: "50px" }}>
-</lord-icon>
-          */}
           
 
           <lord-icon
@@ -50,15 +35,22 @@ export default function Header() {
             <ul className="navbar-nav">
 
               <li className="nav-item">
-                <Link to="/" className="nav-link active" aria-current="page">Home</Link>
+                <Link to="/" className="nav-link active" aria-current="page">Home🏠|</Link>
               </li>
               <li className="nav-item">
-                <Link to="about" className="nav-link active" >Shopping</Link>
+             <Link to="about" className="nav-link active" >All🌍|</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="watch" className="nav-link active" >Watches⌚|</Link>
               </li>
              
-              {/* <li className="nav-item">
-                <Link to="contact" className="nav-link active" >Issue</Link>
-              </li> */}
+              <li className="nav-item">
+                <Link to="shoes" className="nav-link active" >Men's Fashion👦🏻|</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="clothe" className="nav-link active" >Women's Fashion👧🏻|</Link>
+              </li>
+
             </ul>
 
           </div>

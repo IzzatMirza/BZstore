@@ -21,17 +21,9 @@ export default function Footer() {
             </div>
           </div>
 
-          <div className='container mt-3'>
-            <div className='row'>
-              <div className='d-flex justify-content-around'>
-              <Link style={{ textDecoration:"none"  , color: "Blue", fontSize: "15px" }}>Facebook</Link>
-              <Link  style={{ textDecoration: "none", color: "Green", fontSize: "15px" }} > Whatsapp</Link>
-              <Link style={{ textDecoration: "none", color: "yellow", fontSize: "15px" }} >Instagram</Link>
-              <Link style={{ textDecoration: "none", color: "white", fontSize: "15px" }} >TikTok</Link>
-              </div>
-            </div>t
+         
 
-          </div>
+          
       </footer>
 
 
@@ -39,5 +31,3 @@ export default function Footer() {
 
 )
 }
-
-

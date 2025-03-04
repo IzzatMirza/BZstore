@@ -6,56 +6,7 @@ export default function watch() {
      <>
     
 
-    <div className='container justify-content-center my-3'>
-      <div className='row'>
-    
-      <div  className='d-flex justify-content-center mt-2'>
-    
-    <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-        <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/">All👀</Link>
-    
-    </button>
-    </div>
-    
-        <div className='d-flex justify-content-center mt-2'>
-        <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/clothe">Clothes🥼</Link>
-    
-                            </button>
-    </div>
-    <div className='d-flex justify-content-center mt-2'>
-                            <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/Watch">Watches⌚</Link>
-    
-                            </button>
-                            </div>
-    <div  className='d-flex justify-content-center mt-2'>
-                            <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/shoes">Shoes👟</Link>
-    
-                            </button>
-                            </div>
-                            <div  className='d-flex justify-content-center mt-2'>
-    
-                            <button id='shadow' className='btn  mx-2  w-50 animate__animated animate__swing animate__delay-4s justify-content-center'>
-                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/about">Others🤷‍♀️</Link>
-    
-                            </button>
-                            </div>
-    
-                        
-        </div>
-    
-      </div>
-
-
-
-      <div className='d-flex justify-content-center my-2'>
-    <button id='shadow' className='btn mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
-                                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/">Back To Home</Link>
-                
-                                        </button>  
-                                        </div>       
+       
 
 
 
@@ -68,7 +19,7 @@ export default function watch() {
     <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
       <img id="pics" src="w1i1.jpg" class="card-img-top mt-2 " alt="..."/>
       <div class="card-body">
-      <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+      <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
         <p class="card-text">
         <li>
         Men' Formal Digital Watch
@@ -85,7 +36,7 @@ export default function watch() {
                                         
         </p>
     
-                 <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                 <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w1">Buy Now</Link>
     
                             </button>  
@@ -100,7 +51,7 @@ export default function watch() {
     <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
       <img id="pics" src="w2i1.jpg" class="card-img-top mt-2 " alt="..."/>
       <div class="card-body">
-      <h5 class="card-title">4499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+      <h5 class="card-title">4299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
         <p class="card-text">
         <li>
         Men's Formal Analogue Watch
@@ -116,7 +67,7 @@ export default function watch() {
                   
                       
         </p>
-        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w2">Buy Now</Link>
     
                             </button>  
@@ -128,7 +79,7 @@ export default function watch() {
     <div class="card col-12 col-md-4 m-3" style={{width :"18rem"}}>
       <img id="pics" src="w3i1.jpg" class="card-img-top mt-2" alt="..."/>
       <div class="card-body">
-      <h5 class="card-title">4799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+      <h5 class="card-title">4599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
         <p class="card-text">
         <li>
@@ -145,7 +96,7 @@ export default function watch() {
                     
                       
         </p>
-        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w3">Buy Now</Link>
     
                             </button>  
@@ -169,7 +120,7 @@ export default function watch() {
                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                   <img id="pics" src="w4i1.jpg" class="card-img-top mt-2 " alt="..."/>
                   <div class="card-body">
-                  <h5 class="card-title">1450<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                  <h5 class="card-title">1250<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                     <p class="card-text">
                     <li>
@@ -186,7 +137,7 @@ export default function watch() {
                     
                     </p>
                 
-                             <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                             <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
           <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w4">Buy Now</Link>
                 
                                         </button>  
@@ -199,9 +150,9 @@ export default function watch() {
                 
                 
                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                  <img id="pics" src="w5i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                  <img id="pic" src="w5i1.jpg" class="card-img-top mt-2 " alt="..."/>
                   <div class="card-body">
-                  <h5 class="card-title">4999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                  <h5 class="card-title">4799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                     <p class="card-text">
                     <li>
@@ -218,7 +169,7 @@ export default function watch() {
                   
                       
                     </p>
-                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w5">Buy Now</Link>
     
                             </button>  
@@ -228,9 +179,9 @@ export default function watch() {
                 
                 
                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                  <img id="pics" src="w6i1.jpg" class="card-img-top mt-2" alt="..."/>
+                  <img id="pic" src="w6i1.jpg" class="card-img-top mt-2" alt="..."/>
                   <div class="card-body">
-                  <h5 class="card-title">4999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                  <h5 class="card-title">4799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                     <p class="card-text">
                     <li>
@@ -246,7 +197,7 @@ export default function watch() {
                   </li>
                                         
                     </p>
-                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w6">Buy Now</Link>
     
                             </button>  
@@ -269,9 +220,9 @@ export default function watch() {
                  <div className='container'>
                             <div className='row justify-content-center'>
                             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                              <img id="pics" src="w7i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                              <img id="pic" src="w7i1.jpg" class="card-img-top mt-2 " alt="..."/>
                               <div class="card-body">
-                              <h5 class="card-title">4999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                              <h5 class="card-title">4799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                 <p class="card-text">
                                 <li>
@@ -288,7 +239,7 @@ export default function watch() {
                       
                                 </p>
                             
-                                         <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                         <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w7">Buy Now</Link>
                             
                                                     </button>  
@@ -301,9 +252,9 @@ export default function watch() {
                             
                             
                             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                              <img id="pics" src="w8i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                              <img id="pic" src="w8i1.jpg" class="card-img-top mt-2 " alt="..."/>
                               <div class="card-body">
-                              <h5 class="card-title">4999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                              <h5 class="card-title">4799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                 <p class="card-text">
                                 <li>
@@ -319,7 +270,7 @@ export default function watch() {
                   
                           
                                 </p>
-                                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w8">Buy Now</Link>
     
                             </button>  
@@ -331,7 +282,7 @@ export default function watch() {
                             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                               <img id="pics" src="w9i1.jpg" class="card-img-top mt-2" alt="..."/>
                               <div class="card-body">
-                              <h5 class="card-title">3999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                              <h5 class="card-title">3799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                 <p class="card-text">
                                 <li>
@@ -347,7 +298,7 @@ export default function watch() {
                   </li>
                       
                                 </p>
-                                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w9">Buy Now</Link>
     
                             </button>  
@@ -373,7 +324,7 @@ export default function watch() {
                                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                           <img id="pics" src="w10i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                           <div class="card-body">
-                                          <h5 class="card-title">4799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                          <h5 class="card-title">4599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                             <p class="card-text">
                                             <li>
@@ -390,7 +341,7 @@ export default function watch() {
                       
                                             </p>
                                         
-                                                     <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>      
+                                                     <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>      
                                                                          <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w10">Buy Now</Link>
                                         
                                                                 </button>  
@@ -405,7 +356,7 @@ export default function watch() {
                                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                           <img id="pics" src="w11i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                           <div class="card-body">
-                                          <h5 class="card-title">4599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                          <h5 class="card-title">4399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                             <p class="card-text">
                                             <li>
@@ -422,7 +373,7 @@ export default function watch() {
                       
                                             </p>
     
-                                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w11">Buy Now</Link>
     
                             </button>  
@@ -434,7 +385,7 @@ export default function watch() {
                                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                           <img id="pics" src="w12i1.jpg" class="card-img-top mt-2" alt="..."/>
                                           <div class="card-body">
-                                          <h5 class="card-title">3699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                          <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                             <p class="card-text">
                                             <li>
@@ -450,7 +401,7 @@ export default function watch() {
                   </li>
                       
                                             </p>
-                                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w12">Buy Now</Link>
     
                             </button>  
@@ -475,7 +426,7 @@ export default function watch() {
                                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                       <img id="pics" src="w13i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                       <div class="card-body">
-                                                      <h5 class="card-title">5299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                      <h5 class="card-title">5099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                         <p class="card-text">
                                                         <li>
@@ -492,7 +443,7 @@ export default function watch() {
                       
                                                         </p>
                                                     
-                                                                 <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                 <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                           <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w13">Buy Now</Link>
                                                     
                                                                             </button>  
@@ -505,9 +456,9 @@ export default function watch() {
                                                     
                                                     
                                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                      <img id="pics" src="w14i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                      <img id="pic" src="w14i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                       <div class="card-body">
-                                                      <h5 class="card-title">3599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                      <h5 class="card-title">3399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                         <p class="card-text">
                                                         <li>
@@ -524,7 +475,7 @@ export default function watch() {
                       
                                                         </p>
     
-                                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w14">Buy Now</Link>
     
                             </button>  
@@ -536,7 +487,7 @@ export default function watch() {
                                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                       <img id="pics" src="w15i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                       <div class="card-body">
-                                                      <h5 class="card-title">1199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                      <h5 class="card-title">999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                         <p class="card-text">
                                                         <li>
@@ -552,7 +503,7 @@ export default function watch() {
                   </li>
                       
                                                         </p>
-                                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w15">Buy Now</Link>
     
                             </button>  
@@ -577,7 +528,7 @@ export default function watch() {
                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                   <img id="pics" src="w16i1.jpg" class="card-img-top mt-2 " alt="..."/>
                   <div class="card-body">
-                  <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                  <h5 class="card-title">1099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                     <p class="card-text">
                     <li>
@@ -594,7 +545,7 @@ export default function watch() {
                       
                     </p>
                 
-                             <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                             <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                             <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w16">Buy Now</Link>
                 
                                         </button>  
@@ -609,7 +560,7 @@ export default function watch() {
                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                   <img id="pics" src="w17i1.jpg" class="card-img-top mt-2 " alt="..."/>
                   <div class="card-body">
-                  <h5 class="card-title">3599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                  <h5 class="card-title">3399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                     <p class="card-text">
                     <li>
@@ -625,7 +576,7 @@ export default function watch() {
                   
                         
                     </p>
-                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w17">Buy Now</Link>
     
                             </button>  
@@ -635,9 +586,9 @@ export default function watch() {
                 
                 
                 <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                  <img id="pics" src="w18i1.jpg" class="card-img-top mt-2" alt="..."/>
+                  <img id="pic" src="w18i1.jpg" class="card-img-top mt-2" alt="..."/>
                   <div class="card-body">
-                  <h5 class="card-title">599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                  <h5 class="card-title">399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                     <p class="card-text">
                     <li>
@@ -653,7 +604,7 @@ export default function watch() {
                   </li>
                       
                     </p>
-                    <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                    <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w18">Buy Now</Link>
     
                             </button>  
@@ -678,9 +629,9 @@ export default function watch() {
                  <div className='container'>
                             <div className='row justify-content-center'>
                             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                              <img id="pics" src="w19i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                              <img id="pic" src="w19i1.jpg" class="card-img-top mt-2 " alt="..."/>
                               <div class="card-body">
-                              <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                              <h5 class="card-title">2299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                 <p class="card-text">
                                 <li>
@@ -697,7 +648,7 @@ export default function watch() {
                       
                                 </p>
                             
-                                         <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                         <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                            <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w19">Buy Now</Link>
                             
                                                     </button>  
@@ -710,9 +661,9 @@ export default function watch() {
                             
                             
                             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                              <img id="pics" src="w20i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                              <img id="pic" src="w20i1.jpg" class="card-img-top mt-2 " alt="..."/>
                               <div class="card-body">
-                              <h5 class="card-title">1750<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                              <h5 class="card-title">1550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                 <p class="card-text">
                                 <li>
@@ -729,7 +680,7 @@ export default function watch() {
                       
                                 </p>
     
-                                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w20">Buy Now</Link>
     
                             </button>  
@@ -741,7 +692,7 @@ export default function watch() {
                             <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                               <img id="pics" src="w21i1.jpg" class="card-img-top mt-2" alt="..."/>
                               <div class="card-body">
-                              <h5 class="card-title">1899<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                              <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                 <p class="card-text">
                                 <li>
@@ -759,7 +710,7 @@ export default function watch() {
                       
                                 </p>
     
-                                <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w21">Buy Now</Link>
     
                             </button>  
@@ -783,7 +734,7 @@ export default function watch() {
                                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                           <img id="pics" src="w22i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                           <div class="card-body">
-                                          <h5 class="card-title">2699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                          <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                             <p class="card-text">
                                             <li>
@@ -800,7 +751,7 @@ export default function watch() {
                       
                                             </p>
                                         
-                                                     <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                     <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                        <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w22">Buy Now</Link>
                                         
                                                                 </button>  
@@ -813,9 +764,9 @@ export default function watch() {
                                         
                                         
                                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                          <img id="pics" src="w23i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                          <img id="pic" src="w23i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                           <div class="card-body">
-                                          <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                          <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                             <p class="card-text">
                                             <li>
@@ -832,7 +783,7 @@ export default function watch() {
                       
                                             </p>
     
-                                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w23">Buy Now</Link>
     
                             </button>  
@@ -844,7 +795,7 @@ export default function watch() {
                                         <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                           <img id="pics" src="w24i1.jpg" class="card-img-top mt-2" alt="..."/>
                                           <div class="card-body">
-                                          <h5 class="card-title">1550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                          <h5 class="card-title">1350<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                             <p class="card-text">
                                             <li>
@@ -861,7 +812,7 @@ export default function watch() {
                       
                                             </p>
     
-                                            <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                            <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w24">Buy Now</Link>
     
                             </button>  
@@ -888,7 +839,7 @@ export default function watch() {
                                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                       <img id="pics" src="w25i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                       <div class="card-body">
-                                                      <h5 class="card-title">799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                      <h5 class="card-title">599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                       <p className='card-text'>
                                                       <li>
@@ -905,7 +856,7 @@ export default function watch() {
                       
                                                       </p>
                                                     
-                                                                 <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                 <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w25">Buy Now</Link>
                                                     
                                                                             </button>  
@@ -918,9 +869,9 @@ export default function watch() {
                                                     
                                                     
                                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                      <img id="pics" src="w26i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                      <img id="pic" src="w26i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                       <div class="card-body">
-                                                      <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                      <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                         <p class="card-text">
                                                         <li>
@@ -937,7 +888,7 @@ export default function watch() {
                       
                                                         </p>
     
-                                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w26">Buy Now</Link>
     
                             </button>  
@@ -949,7 +900,7 @@ export default function watch() {
                                                     <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                       <img id="pics" src="w27i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                       <div class="card-body">
-                                                      <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                      <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                         <p class="card-text">
                                                         <li>
@@ -966,7 +917,7 @@ export default function watch() {
                       
                                                         </p>
     
-                                                        <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                        <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w27">Buy Now</Link>
     
                             </button>  
@@ -991,7 +942,7 @@ export default function watch() {
                                           <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                             <img id="pics" src="w28i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                             <div class="card-body">
-                                            <h5 class="card-title">1599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                            <h5 class="card-title">1399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                               <p class="card-text">
                                               <li>
@@ -1008,7 +959,7 @@ export default function watch() {
                   
                                               </p>
                                           
-                                                       <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                       <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                       <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w28">Buy Now</Link>
                                           
                                                                   </button>  
@@ -1023,7 +974,7 @@ export default function watch() {
                                           <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                             <img id="pics" src="w29i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                             <div class="card-body">
-                                            <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                            <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                               <p class="card-text">
                                               <li>
@@ -1040,7 +991,7 @@ export default function watch() {
                       
                                               </p>
     
-                                              <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                              <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w29">Buy Now</Link>
     
                             </button>  
@@ -1052,7 +1003,7 @@ export default function watch() {
                                           <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                             <img id="pics" src="w30i1.jpg" class="card-img-top mt-2" alt="..."/>
                                             <div class="card-body">
-                                            <h5 class="card-title">3599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                            <h5 class="card-title">3399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                               <p class="card-text">
                                               <li>
@@ -1069,7 +1020,7 @@ export default function watch() {
                       
                                               </p>
     
-                                              <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                              <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w30">Buy Now</Link>
     
                             </button>  
@@ -1097,7 +1048,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w31i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">1699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1114,7 +1065,7 @@ export default function watch() {
                       
                                                           </p>
                                                       
-                                                                   <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                   <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w31">Buy Now</Link>
                                                       
                                                                               </button>  
@@ -1127,9 +1078,9 @@ export default function watch() {
                                                       
                                                       
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="W32I1.JPg" class="card-img-top mt-2 " alt="..."/>
+                                                        <img id="pic" src="W32I1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">2299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1146,7 +1097,7 @@ export default function watch() {
                       
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w32">Buy Now</Link>
     
                             </button>  
@@ -1158,7 +1109,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w33i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">1750<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">1550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1175,7 +1126,7 @@ export default function watch() {
                       
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w33">Buy Now</Link>
     
                             </button>  
@@ -1194,7 +1145,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w34i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">650<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">450<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1211,7 +1162,7 @@ export default function watch() {
                       
                                                           </p>
                                                       
-                                                                   <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                   <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w34">Buy Now</Link>
                                                       
                                                                               </button>  
@@ -1226,7 +1177,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w35i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1243,7 +1194,7 @@ export default function watch() {
                       
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w35">Buy Now</Link>
     
                             </button>  
@@ -1255,7 +1206,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w36i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">3199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1272,7 +1223,7 @@ export default function watch() {
                       
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w36">Buy Now</Link>
     
                             </button>  
@@ -1291,9 +1242,9 @@ export default function watch() {
                                                       <div className='container'>
                                                       <div className='row justify-content-center'>
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="w37i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                        <img id="pic" src="w37i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">2299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">2099<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1310,7 +1261,7 @@ export default function watch() {
                           
                                                           </p>
                                                       
-                                                                   <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                   <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w37">Buy Now</Link>
                                                       
                                                                               </button>  
@@ -1323,9 +1274,9 @@ export default function watch() {
                                                       
                                                       
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="w38i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                        <img id="pic" src="w38i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">3399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">3199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1341,7 +1292,7 @@ export default function watch() {
                   </li>
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w38">Buy Now</Link>
     
                             </button>  
@@ -1351,9 +1302,9 @@ export default function watch() {
                                                       
                                                       
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="w39i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                                        <img id="pic" src="w39i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">3499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">3299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1369,7 +1320,7 @@ export default function watch() {
                   </li>
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w39">Buy Now</Link>
     
                             </button>  
@@ -1388,9 +1339,9 @@ export default function watch() {
                                                       <div className='container'>
                                                       <div className='row justify-content-center'>
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="w40i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                        <img id="pic" src="w40i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1406,7 +1357,7 @@ export default function watch() {
                   </li>
                                                           </p>
                                                       
-                                                                   <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                   <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w40">Buy Now</Link>
                                                       
                                                                               </button>  
@@ -1421,7 +1372,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w41i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">750<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">550<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1437,7 +1388,7 @@ export default function watch() {
                   </li>
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w41">Buy Now</Link>
     
                             </button>  
@@ -1449,7 +1400,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w42i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">1399<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">1199<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1466,7 +1417,7 @@ export default function watch() {
 
                                                          </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w42">Buy Now</Link>
     
                             </button>  
@@ -1485,9 +1436,9 @@ export default function watch() {
                                                       <div className='container'>
                                                       <div className='row justify-content-center'>
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="w43i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                        <img id="pic" src="w43i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">699<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1503,7 +1454,7 @@ export default function watch() {
                   </li>
                                                           </p>
                                                       
-                                                                   <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                   <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w43">Buy Now</Link>
                                                       
                                                                               </button>  
@@ -1518,7 +1469,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w44i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">2499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">2299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1534,7 +1485,7 @@ export default function watch() {
                   </li>       
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w44">Buy Now</Link>
     
                             </button>  
@@ -1544,9 +1495,9 @@ export default function watch() {
                                                       
                                                       
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="w45i1.jpg" class="card-img-top mt-2" alt="..."/>
+                                                        <img id="pic" src="w45i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">1499<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">1299<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1562,7 +1513,7 @@ export default function watch() {
                   </li>
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w45">Buy Now</Link>
     
                             </button>  
@@ -1583,7 +1534,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w46i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">3999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">3799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1599,7 +1550,7 @@ export default function watch() {
                   </li>
                                                           </p>
                                                       
-                                                                   <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                                   <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                                                                   <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w46">Buy Now</Link>
                                                       
                                                                               </button>  
@@ -1612,9 +1563,9 @@ export default function watch() {
                                                       
                                                       
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
-                                                        <img id="pics" src="w47i1.jpg" class="card-img-top mt-2 " alt="..."/>
+                                                        <img id="pic" src="w47i1.jpg" class="card-img-top mt-2 " alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">2599<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1630,7 +1581,7 @@ export default function watch() {
                   </li>
                                                           </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w47">Buy Now</Link>
     
                             </button>  
@@ -1642,7 +1593,7 @@ export default function watch() {
                                                       <div class="card col-12 col-md-3 m-3" style={{width :"18rem"}}>
                                                         <img id="pics" src="w48i1.jpg" class="card-img-top mt-2" alt="..."/>
                                                         <div class="card-body">
-                                                        <h5 class="card-title">2999<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
+                                                        <h5 class="card-title">2799<span className='text-'>rs </span><span className='text-danger'>2%off</span></h5>
 
                                                           <p class="card-text">
                                                           <li>
@@ -1658,7 +1609,7 @@ export default function watch() {
                   Delivery in 3-5 days
                   </li>                                          </p>
     
-                                                          <button id='shadow' className='btn btn-danger mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
+                                                          <button id='shadow' className='btn  mx-2 mt-5 w-auto animate__animated animate__swing animate__delay-4s'>
                                 <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }} to="/w48">Buy Now</Link>
     
                             </button>  
@@ -1674,7 +1625,22 @@ export default function watch() {
     
     
          
+                <div className='d-flex justify-content-center '>
     
+     <button id='shadow' className='btn  mx-2  w-auto animate__animated animate__swing animate__delay-4s justify-content-center'>
+                                <Link style={{ textDecoration: "none", color: "black", fontSize: "20px" }}  to="/shoes">Continue Shopping...</Link>
+    
+                            </button>
+                            <lord-icon
+                src="https://cdn.lordicon.com/hwpohgdf.json"
+                trigger="loop"
+                delay="1500" 
+                state="in-dynamic"
+                style={{ width: "50px", height: "50px" }}>
+              </lord-icon>
+              
+         </div>
+             
     
          
     
