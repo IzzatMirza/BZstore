@@ -70,7 +70,7 @@ const ZocialIcons = () => {
 
         {/* Instagram */}
         <a
-          href=""
+          href="https://www.instagram.com/izzatmirzaizzatmirza?igsh=ZGUzMzM3NWJiOQ=="
           target="_blank"
           rel="noopener noreferrer"
           style={{ ...iconStyle, color: 'orange' }} // Instagram brand color
