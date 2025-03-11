@@ -11,7 +11,7 @@ function App() {
 
 <Zocialicons/>
       <Routes />
-{/* <Prompt/> */}
+<Prompt/>
 
       <ToastContainer
       
