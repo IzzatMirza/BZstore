@@ -25,7 +25,7 @@ export default function Header() {
 
 
 
-          <a className="navbar-brand" href="#" style={{ color: "#e76f51", fontFamily:"fantasy", fontSize: "28px" }}>BuyZone Store</a>
+          <a className="navbar-brand" href="#" style={{ color: "Blue", fontFamily:"cursive", fontSize: "28px" }}>BuyZone Store</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
